@@ -43,7 +43,7 @@ Seleccionamos:
 - SCM: Git
 - Repository URL: https://github.com/almecijam/calculator.git
 - Branches to build > Branch Specifier (blank for 'any'): */main
-- Script Path: Jenkinsfile
+- Script Path: Jenkinsfile2
 
 Pulsamos `Guardar`
 
